@@ -26,39 +26,21 @@
 
 ## 平台截图
 
-**首页 · 电脑端**
+## 界面
 
-![首页](docs/screenshots/01-home-desktop.png)
-
-**TV 指标库 · 12 款免费指标，每天更新一款**
-
-![TV 指标库](docs/screenshots/02-indicators.png)
-
-**量化与信号 · 老师实盘曲线公开可查**
-
-![量化与信号](docs/screenshots/03-quant.png)
-
-**老师与团队 · Cami Chan**
-
-![老师与团队](docs/screenshots/04-teachers.png)
-
-**学院与课程 · 一周集训课**
-
-![学院与课程](docs/screenshots/05-academy.png)
-
-**合作券商 · TMGM / AXPM / GFS**
-
-![合作券商](docs/screenshots/06-brokers.png)
-
-**下载页 · 安卓 APP + iPhone 教程**
-
-![下载页](docs/screenshots/07-download.png)
-
-**手机端**
-
-| 首页 | 指标库 |
+| <img src="docs/screenshots/01-home-desktop.png" width="100%"> | <img src="docs/screenshots/02-indicators.png" width="100%"> |
 | :---: | :---: |
-| <img src="docs/screenshots/08-home-mobile.png" width="300"> | <img src="docs/screenshots/09-indicators-mobile.png" width="300"> |
+| **首页 · 电脑端** | **TV 指标库** · 12 款免费指标，每天更新一款 |
+| <img src="docs/screenshots/03-quant.png" width="100%"> | <img src="docs/screenshots/04-teachers.png" width="100%"> |
+| **量化与信号** · 老师实盘曲线公开可查 | **老师与团队** |
+| <img src="docs/screenshots/05-academy.png" width="100%"> | <img src="docs/screenshots/06-brokers.png" width="100%"> |
+| **学院与课程** · 一周集训课 | **合作券商** · TMGM / AXPM / GFS |
+| <img src="docs/screenshots/07-download.png" width="100%"> | <img src="docs/screenshots/08-home-mobile.png" width="62%"> |
+| **下载页** · 安卓 APP + iPhone 教程 | **手机端首页** |
+
+| <img src="docs/screenshots/09-indicators-mobile.png" width="300"> |
+| :---: |
+| **手机端指标库** |
 
 ---
 
