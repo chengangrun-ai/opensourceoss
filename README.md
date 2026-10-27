@@ -59,30 +59,41 @@
 
 ## 平台截图
 
-<table>
-  <tr>
-    <td width="50%"><img src="docs/screenshots/01-home-desktop.png" alt="首页"><br><b align="center">首页 · 电脑端</b></td>
-    <td width="50%"><img src="docs/screenshots/02-indicators.png" alt="指标库"><br><b>TV 指标库</b> · 12 款免费指标</td>
-  </tr>
-  <tr>
-    <td><img src="docs/screenshots/03-quant.png" alt="量化"><br><b>量化与信号</b> · 老师实盘曲线公开</td>
-    <td><img src="docs/screenshots/04-teachers.png" alt="老师"><br><b>老师与团队</b></td>
-  </tr>
-  <tr>
-    <td><img src="docs/screenshots/05-academy.png" alt="学院"><br><b>学院与课程</b> · 一周集训课</td>
-    <td><img src="docs/screenshots/06-brokers.png" alt="券商"><br><b>合作券商</b> · TMGM / AXPM / GFS</td>
-  </tr>
-  <tr>
-    <td><img src="docs/screenshots/07-download.png" alt="下载"><br><b>下载页</b> · 安卓 APP + iPhone 教程</td>
-    <td><img src="docs/screenshots/08-home-mobile.png" alt="手机首页"><br><b>手机端首页</b></td>
-  </tr>
-</table>
+**首页** · 电脑端
 
-<div align="center">
+<img src="docs/screenshots/01-home-desktop.png" alt="首页 · 电脑端" width="100%">
+
+**TV 指标库** · 12 款免费指标
+
+<img src="docs/screenshots/02-indicators.png" alt="TV 指标库" width="100%">
+
+**量化与信号** · 老师实盘曲线公开
+
+<img src="docs/screenshots/03-quant.png" alt="量化与信号" width="100%">
+
+**老师与团队**
+
+<img src="docs/screenshots/04-teachers.png" alt="老师与团队" width="100%">
+
+**学院与课程** · 一周集训课
+
+<img src="docs/screenshots/05-academy.png" alt="学院与课程" width="100%">
+
+**合作券商** · TMGM / AXPM / GFS
+
+<img src="docs/screenshots/06-brokers.png" alt="合作券商" width="100%">
+
+**下载页** · 安卓 APP + iPhone 教程
+
+<img src="docs/screenshots/07-download.png" alt="下载页" width="100%">
+
+### 手机端
+
+<p align="center">
+  <img src="docs/screenshots/08-home-mobile.png" alt="手机端首页" width="300">
+  &nbsp;&nbsp;
   <img src="docs/screenshots/09-indicators-mobile.png" alt="手机端指标库" width="300">
-  <br>
-  <b>手机端指标库</b>
-</div>
+</p>
 
 ---
 
